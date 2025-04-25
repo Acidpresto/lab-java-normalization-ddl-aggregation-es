@@ -28,7 +28,7 @@
 | Maria Charlotte  | Mixing Textures               | 765              | 22      |
 | Juan Perez       | Kitchen Refresh               | 1242             | 307     |
 | Maria Charlotte  | Homemade Art Hacks            | 1002             | 193     |
-| Gemma Alcocer    | Refinishing Wood Floors       | 1571             | 7542    |
+| ~~Gemma Alcocer~~    | Refinishing Wood Floors       | 1571             | 7542    |
 
 <br>
 
